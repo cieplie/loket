@@ -7,7 +7,7 @@
 
 # installasi
 1. Ubah config pada _application/config/database.php_
-2. Import database yang terdapat pada [schema](https://github.com/cieplie/loket/db)
+2. Import database yang terdapat pada [schema](https://github.com/cieplie/loket/tree/master/db)
 
 # demo
 1. Dikarenakan free hosting apabila alamat dibawah ini tidak bisa diakses silahkan tunggu selama 1 jam 
