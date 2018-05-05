@@ -10,4 +10,5 @@
 2. Import database yang terdapat pada [schema](https://github.com/cieplie/loket/db)
 
 # demo
+1. Dikarenakan free hosting apabila alamat dibawah ini tidak bisa diakses silahkan tunggu selama 1 jam 
 [demo](http://dannyerry83.000webhostapp.com/loket)
